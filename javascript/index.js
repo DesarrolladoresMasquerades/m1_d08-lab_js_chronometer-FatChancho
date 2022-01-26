@@ -79,7 +79,7 @@ const click = event.target
     btnLeftElement.innerText='STOP';
     btnRightElement.innerText='SPLIT'
     chronometer.start(printTime);
-    
+     
   }
 });
 
